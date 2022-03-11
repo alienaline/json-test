@@ -1,1 +1,1 @@
-test work with JSON
+test JSON
